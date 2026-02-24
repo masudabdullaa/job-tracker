@@ -12,7 +12,17 @@
     margin-top: 10px;
     color: #F8FAFC;
 }
-
+.interview_btn {
+    background-color: green;
+    color: white;
+}
+.reject_btn {
+    background-color: red;
+    color: white;
+}
+#no_jobs {
+    display: block;
+}
 
 
 @media screen and (max-width: 576px) {
