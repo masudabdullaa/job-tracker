@@ -20,9 +20,6 @@
     background-color: red;
     color: white;
 }
-#no_jobs {
-    display: block;
-}
 
 
 @media screen and (max-width: 576px) {
